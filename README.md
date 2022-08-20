@@ -1,4 +1,5 @@
 # Optimal-shopping
-A python prgram to optimise cost using coupons
+
+A Python program to optimise cost using coupons
 
 
